@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\Games\lz\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\Users\user\Desktop\lz\20.1\lib\x86_64-win64 -FuC:\Users\user\Desktop\lz\20.2 -FuD:\Games\lz\lcl\units\x86_64-win64\win32 -FuD:\Games\lz\lcl\units\x86_64-win64 -FuD:\Games\lz\components\freetype\lib\x86_64-win64 -FuD:\Games\lz\components\lazutils\lib\x86_64-win64 -FuD:\Games\lz\packager\units\x86_64-win64 -FuC:\Users\user\Desktop\lz\20.1\ -FUC:\Users\user\Desktop\lz\20.1\lib\x86_64-win64\ -FEC:\Users\user\Desktop\lz\20.1\ -oC:\Users\user\Desktop\lz\20.1\project1.exe -dLCL -dLCLwin32 project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
